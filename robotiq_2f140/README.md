@@ -13,7 +13,7 @@ description](https://github.com/ros-industrial/robotiq/tree/kinetic-devel/roboti
 
 <p float="left">
 
-  <img src="2f85.png" width="400">
+  <img src="2f140.png" width="400">
 
 </p>
 
